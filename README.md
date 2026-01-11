@@ -56,9 +56,11 @@ The interactive dashboard includes:
 - Data visualization & feature engineering
 - GitHub for version control
 
+<img width="930" height="578" alt="image" src="https://github.com/user-attachments/assets/ddecca42-7cd6-470a-8442-4a71147873e8" />
+
 ---
 
 ## Author
 Rihab Zouitina
-<img width="930" height="578" alt="image" src="https://github.com/user-attachments/assets/45dd6482-7472-41a1-88e6-5ece6f8140d0" />
+
 
